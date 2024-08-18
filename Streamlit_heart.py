@@ -42,7 +42,7 @@ feature_names = [
 ]
 
 # Streamlit user interface
-st.title("Heart Disease Predictor")
+st.title("Chenjian's  Machine learning Predictor")
 
 # age: numerical input
 age = st.number_input("Age:", min_value=1, max_value=120, value=50)
